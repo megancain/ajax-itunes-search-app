@@ -1,0 +1,10 @@
+* {
+  margin: 50;
+  padding: 50;
+  box-sizing: border-box;
+}
+
+#results {
+  display: flex;
+  flex-wrap: wrap;
+}
